@@ -1,2 +1,2 @@
 # PyShop
-DJANOG 
+DJANGO
