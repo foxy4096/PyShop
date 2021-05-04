@@ -6,3 +6,5 @@ A simple E-commerce Web app made on django
 Username: admin
 <br>
 Password: 1234
+<br>
+Is anything left?
